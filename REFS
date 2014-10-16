@@ -1,0 +1,15 @@
+http://www.bittorrent.org/beps/bep_0003.html
+ Original protocol spec.
+
+http://www.bittorrent.org/beps/bep_0005.html
+ Distributed tracking spec.
+
+http://www.bittorrent.org/beps/bep_0012.html
+ Multiple trackers extension
+ (announce-list)
+
+http://www.bittorrent.org/beps/bep_0015.html
+  UDP tracker protocol
+
+http://en.wikipedia.org/wiki/Torrent_file
+ Mentions some extensions.
