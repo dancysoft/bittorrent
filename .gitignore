@@ -1,0 +1,4 @@
+*.fasl
+*.in
+*.out
+*.tmp
